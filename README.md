@@ -103,6 +103,24 @@ Used for:
 
 ---
 
+## 📊 Power BI Dashboard
+
+The Power BI dashboard contains three analytical pages:
+
+### 1. Sales Analytics
+This page provides a high-level overview of total sales and performance metrics.
+![Sales Analytics](screenshots/Sales%20Analytics.png)
+
+### 2. Sales Trends & Drivers
+This page explores how sales fluctuate over time and are affected by external factors.
+![Sales Trends & Drivers](screenshots/Sales%20Trend%20and%20drivers.png)
+
+### 3. Store Performance
+This page breaks down sales by individual stores to highlight top and bottom performers.
+![Store Performance](screenshots/Store%20performance.png)
+
+---
+
 ## 🔄 Project Workflow
 
 ```text
